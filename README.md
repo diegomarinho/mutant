@@ -10,11 +10,11 @@
   $ docker-compose up   
   ```
 
-## Rodar em ambiente AWS:
+## Rodar em ambiente cloud (HEROKU):
   - URL`s:
   
-    - ` http://ec2-13-58-238-261.us-east-2.compute.amazonaws.com:4567/mutant `
-    - ` http://ec2-13-58-238-261.us-east-2.compute.amazonaws.com:4567/stats `
+    - ` https://mutantes.herokuapp.com/mutant `
+    - ` https://mutantes.herokuapp.com/stats `
 
 ## Utilizando a Mutant API
 
