@@ -1,0 +1,11 @@
+Getting Started With Math API
+
+This is an example output for a service running at http://localhost:9900:
+
+Operation types "MUTANT", "NO-MUTANT"
+
+.request
+include::{snippets}/mutant/http-request.adoc[]
+
+.response
+include::{snippets}/mutant/http-response.adoc[]

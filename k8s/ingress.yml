@@ -1,0 +1,9 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: mutant
+  annotations:
+spec:
+  backend:
+    serviceName: mutant
+    servicePort: 8080
