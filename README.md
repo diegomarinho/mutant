@@ -6,6 +6,7 @@
 
 ## Rodar em ambiente local:
   ```
+  $ git clone https://github.com/diegomarinho/mutant.git
   $ ./gradlew clean build
   $ docker-compose up   
   ```
