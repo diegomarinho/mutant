@@ -1,4 +1,4 @@
-Getting Started With Math API
+Getting Started With Mutant API
 
 This is an example output for a service running at http://localhost:9900:
 
